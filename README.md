@@ -4,4 +4,4 @@ Tutorial Followed: https://marketplace.zoom.us/docs/sdk/native-sdks/web
 
 The integration was found to be feasible.
 
-Project Status: Development in progress by exteral agency
+Project Status (April 2021): Development in progress by external agency
